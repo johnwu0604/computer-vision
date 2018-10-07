@@ -1,7 +1,7 @@
 # ECSE 415 - Assignement 1
 
-Name: John Wu
-Student: #260601256
+#### Name: John Wu
+#### Student: #260601256
 
 ### Requirements
 
